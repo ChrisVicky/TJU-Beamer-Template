@@ -1,6 +1,6 @@
 # TJU Beamer Template
 
-* 参考[中科大](https://www.overleaf.com/latex/templates/ucas-beamer-theme/npkdpbrpjfbn)改
+* 参考[国科大](https://www.overleaf.com/latex/templates/ucas-beamer-theme/npkdpbrpjfbn)改
 * AUR 相关包
     ```
     texlive-bibtexextra 2023.66579-1
